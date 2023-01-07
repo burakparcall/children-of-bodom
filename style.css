@@ -1,0 +1,255 @@
+body {
+	height: auto;
+    background: url("https://images.squarespace-cdn.com/content/5c4f2d2b45776efa53c9c497/1576559111419-PX3YWCPQAF45I3V96Z36/chapterbg4.jpg?content-type=image%2Fjpeg");
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+}
+
+nav {
+    height: 110px;
+}
+
+.navbar-brand {
+    font-family: 'Rubik Vinyl', cursive;
+    font-size: 40px;
+    display: flex;
+    justify-content: right;
+}
+
+.navbar-collapse {
+    display: flex;
+    justify-content: end;
+}
+
+.nav-item {
+    display: inline-block;
+    margin-left: 40px;
+    font-size: 25px;
+    font-family: 'Rubik Spray Paint', cursive;
+}
+
+main {
+    height: auto;
+    color: white;
+    width: 1519px;
+    margin-top: 700px;
+}
+
+main h2 {
+    font-family: 'Kenia', cursive;
+    font-size: 65px;
+    width: 130px;
+}
+
+main h3 {
+    font-family: 'Kenia', cursive;
+    font-size: 40px;
+	text-align: center;
+}
+
+.carousel {
+    height: 500px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#albums {
+    width: 1290px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#albums .row {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#albums .col {
+    width: 430px;
+   height: 510px;
+}
+
+#albums img {
+    width: 366px;
+    height: 270px;
+    margin-left: 15px;
+}
+
+#albums h5 {
+    font-family: 'Kenia', cursive;
+}
+
+#albums p {
+    font-size: 12px;
+    
+}
+
+.concert-video {
+	margin-top: 120px;
+	width: 1519px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.video {
+	width: 800px;
+	margin-left: 350px;	
+}
+
+.history {
+    width: 1300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+}
+
+
+.tour-contents .title {
+    width: 130px;
+}
+
+
+
+.news-t {
+    margin-bottom: 115px;
+    display: flex;
+    justify-content: center;
+}
+
+.news-1{
+    margin-right: 250px;
+    background-color: transparent;
+}
+
+.news-2 {
+	background-color: transparent
+}
+
+.news-b {
+    margin-bottom: 155px;
+    display: flex;
+    justify-content: center;
+}
+
+.news-3{
+    margin-right: 250px;
+	background-color: transparent;
+}
+
+.news-4 {
+	background-color: transparent
+}
+
+
+.card {
+    width: 400px;
+    height: 780px;
+    background-color: transparent;
+}
+
+
+.card-text {
+    font-size: 20px;
+}
+
+.card-title {
+    width: 250px;
+}
+
+.btn {
+    font-size: 20px;
+    color: white;
+}
+
+.btn-secondary {
+    width: 105px;
+
+}
+
+.btn-black {
+    border: 1px solid gray;
+}
+
+.btn-close {
+    color: white;	
+}
+
+.modal-header {
+    background-color: black;
+    color: white;
+}
+
+.modal-header button {
+    background-color: white;
+}
+
+.modal-body {
+    background-color: #2B2D2F;
+    color: white;
+}
+
+.modal-content {
+    width: 580px;
+}
+
+.title {
+    text-align: center;
+    font-family: 'Kenia', cursive;
+    font-size: 55px;
+}
+
+.tour-contents .row {
+    text-align: center;
+    border-bottom: 1px solid white;
+    margin-bottom: 15px;
+}
+
+footer {
+    font-family: 'Poppins', sans-serif;
+    height: 80px;
+    margin-bottom: 10px;  
+}
+
+#media-footer {
+    margin-top: 150px;
+}
+
+#tour-footer {
+    margin-top: 150px;
+}
+
+#albums-footer {
+    margin-top: 180px;
+}
+
+.col-7 {
+    width: 400px;
+    margin-left: 150px;
+}
+
+.cob {
+    display: inline-block;
+}
+
+.footer-icon {
+    color: white;
+    font-size: 15px;
+}
+
+ul {
+    list-style-type: none;
+    display: inline-flex
+}
+
+.col-5 {
+    display: inline-block;
+    width: 400px;
+    margin-left: 250px;
+}
+
+.designed {
+    font-size: 15px;
+}
+
